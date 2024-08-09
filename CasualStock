@@ -1,0 +1,2110 @@
+ctrl+M
+local SportMasterPrice = {
+    2150,
+    1530,
+    1530,
+    1550,
+    1000,
+    1500,
+    1845,
+    1600,
+    2300
+}
+
+local ZaraPrice = {
+    10800,
+    3800,
+    4780,
+    3700,
+    3000,
+    3000,
+    3000,
+    3900,
+    3100,
+    3300
+}
+
+local BapePrice = {
+    40000,
+    10000,
+    10000,
+    35000,
+    35000,
+    46000,
+    46000,
+    99000,
+    50000,
+    45000,
+    45000,
+    53000,
+    35000,
+    35000,
+    35000,
+    35000,
+    52000,
+    43000,
+    23500,
+    21000,
+    1000000
+}
+
+local StoneIslandPrice = {
+    30000,
+    78000,
+    80000,
+    35000,
+    23000,
+    31000,
+    15000,
+    20000,
+    25000,
+    25000,
+    25000,
+    25000,
+    29000,
+    23500
+}
+
+local BalenciagaPrice = {
+    170000,
+    37000,
+    22000,
+    22000,
+    22000,
+    25000,
+    35000
+}
+
+local LouisVuittonPrice = {
+    135000,
+    240000,
+    620000,
+    95000
+}
+
+local ChromeHeartsPrice = {
+    650000,
+    150000,
+    150000,
+    160000,
+    150000,
+    150000,
+    700000,
+    650000,
+    440000,
+    260000,
+    260000,
+    260000,
+    116000,
+    100000,
+    80000,
+    169000
+}
+
+local GucciPrice = {
+    50000,
+    84000,
+    24000,
+    70000,
+    143000,
+    108000,
+    110000,
+    29000,
+    142000,
+    42000,
+    117000,
+    140000,
+    127000,
+    92000,
+    380000
+}
+
+local LuxeStorePrice = {
+    80000,
+    11000,
+    6000,
+    64000,
+    64000,
+    80000
+}
+
+local AdidasPrice = {
+    3000,
+    23000,
+    12000,
+    7000,
+    2000,
+    2000,
+    7000,
+    2000,
+    2000,
+    2000,
+    2500,
+    2000,
+    2000,
+    5000,
+    4000,
+    1000,
+    5000,
+    4000,
+    9500,
+    4500,
+    2500,
+    2000,
+    2500,
+    6000,
+    2500,
+    2000,
+    4000,
+    12000,
+    4000,
+    2000,
+    9000,
+    3000,
+    4000,
+    2000,
+    2000,
+    3000,
+    9500,
+    3000,
+    5000,
+    5000,
+    2000,
+    2500,
+    4000,
+    3000,
+    6000,
+    5000,
+    4000,
+    5000,
+    5000,
+    3000,
+    2000,
+    3000,
+    3000,
+    2000,
+    4000,
+    12000,
+    2500,
+    7000,
+    3000,
+    110000,
+    6000,
+    5500,
+    2000,
+    3500,
+    3000,
+    4000,
+    11500,
+    9000,
+    23000,
+    4500,
+    2000,
+    4000,
+    1500,
+    3000,
+    5000,
+    3500,
+    3000,
+    4000,
+    4000
+}
+
+local MonclerPrice = {
+    100000,
+    100000,
+    100000,
+    100000,
+    100000,
+    100000,
+    50000,
+    53000,
+    80000
+}
+
+local NikePrice = {
+    3000,
+    3000,
+    1500,
+    2000,
+    2000,
+    2000,
+    2500,
+    2500,
+    2000,
+    2500,
+    5000,
+    2000,
+    2000,
+    2000,
+    2000,
+    5000,
+}
+
+local SupremePrice = {
+    22000,
+    29000,
+    26000,
+    12000,
+    14000,
+    12000,
+    44000,
+    40000,
+    30000,
+    30000,
+    10000,
+    60000
+}
+
+local TNFPrice = {
+    53000,
+    20000,
+    25000,
+    63000,
+    20000,
+    34000,
+    3000,
+    50000,
+    65000,
+    17000,
+    18000,
+    1500,
+    21000,
+    28000,
+    23000,
+    20000
+}
+
+local CPPrice = {
+    25000,
+    20000,
+    11000,
+    20000,
+    21000,
+    70000,
+    27000,
+    81000,
+    65000,
+    14000,
+    57000,
+    76000,
+    46000
+}
+
+local VetementsPrice = {
+    61000,
+    84000,
+    84000,
+    53000,
+    85000,
+    84000,
+    78000,
+    100000,
+    140000,
+    82000,
+    139700,
+    219000,
+    34000,
+    79000,
+    138000,
+    143000,
+    158000,
+    71000,
+    61000,
+    81000,
+    96000,
+    56000
+}
+
+local NFPrice = {
+    17500,
+    8000,
+    212000,
+    11500,
+    74000,
+    54000,
+    55000,
+    105000,
+    35000,
+    73000
+}
+
+local RickOwensPrice = {
+    74000,
+    86500,
+    19200,
+    54000,
+    38000,
+    59000,
+    79000
+}
+
+local XiaomiPrice = {
+    19000
+}
+
+local ApplePrice = {
+    55000,
+    73000,
+    53000,
+    88000,
+    70000,
+    200000
+}
+
+local LimitedPrice = {
+    100000000,
+    100000000,
+    100000000,
+    100000000,
+    100000000
+}
+
+-- Списки предметов
+local SportMasterList = {
+    "Чёрная Спортивная Джинсовка 'Puma'",
+    "Белая Футболка 'Puma'",
+    "Чёрная Футболка 'Puma'",
+    "Чёрные Джоггеры 'Puma'",
+    "Красная Футболка 'Demix'",
+    "Спортивные Штаны 'Nike'",
+    "Чёрные Спортивные Штаны 'Puma'",
+    "Спортивные Штаны 'Polo'",
+    "Черные Спортивные Штаны 'Adidas'"
+}
+
+local ZaraList = {
+    "Синий пиджак 'ZARA'",
+    "Синяя куртка 'ZARA'",
+    "Чёрная джинсовка 'ZARA'",
+    "Синий свитер 'ZARA'",
+    "Серые штаны 'ZARA'",
+    "Черные порванные джинсы 'ZARA'",
+    "Порванные джинсы 'ZARA'",
+    "Серая Zip-Hodie 'ZARA'",
+    "Белые рваные джинсы 'ZARA'",
+    "Штаны Side Cheker 'ZARA'" 
+}
+
+local BapeList = {
+    "Фиолетовый Зип-Худи 'BAPE'",
+    "Белая Футболка 'BAPE STA'",
+    "Красная Футболка 'BAPE'",
+    "Чёрные Джинсы 'BAPE STA'",
+    "Тёмные Джинсы 'BAPE STA'",
+    "Бежевый Зип-Худи 'BAPE'",
+    "Бежевая Зип-Худи 'BAPE'",
+    "Рюкзак 'BAPE'",
+    "Черная Зип-Худи Baby-Milo",
+    "Черный Зип-Худи 'BAPE'",
+    "Бежевая Зип-Худи 'BAPE STA'",
+    "Серый Зип-Худи 'BAPE'",
+    "Чёрные Джинсы 'BAPE STA'",
+    "Джинсы 'BAPE'",
+    "Тёмные Джинсы 'BAPE STA'",
+    "Чёрный Джинсы 'BAPE STA'",
+    "Черный Зип-Худи 'BAPE x Baby Milo'",
+    "Черный С 'BAPE STA'",
+    "Синий Зип-Худи 'BAPE STA'",
+    "Серый Зип-Худи 'BAPE STA'"
+}
+
+local StoneIslandList = {
+    "Фиолетовый Свитер 'Stone Island'",
+    "Болотная Куртка 'Stone Island'",
+    "Чёрная Куртка 'Stone Island'",
+    "Свитшот С Жилетом 'Carhartt X Stone Island'",
+    "Болотный Свитшот 'Stone Island'",
+    "Чёрная Джинсовка 'Stone Island'",
+    "Бежевая Рубашка 'Stone Island'",
+    "Красный Свитшот 'Stone Island'",
+    "Серый Свитер 'Stone Island'",
+    "Черные Джоггеры 'Stone Island'",
+    "Синие Джинсы 'Stone Island'",
+    "Тёмные Штаны 'Stone Island'",
+    "Серые Джинсы 'Stone Island'"
+}
+
+local BalenciagaList = {
+    "Красная Куртка 'Balenciaga'",
+    "Брюки 'Balenciaga'",
+    "Чёрный Свитер 'Balenciaga'",
+    "Красный Свитер 'Balenciaga'",
+    "Зелёный Свитер 'Balenciaga'",
+    "Потрёпанные Штаны 'Balenciaga'",
+    "Тёмные Джинсы 'Balenciaga'"
+}
+
+local LouisVuittonList = {
+    "Тёмные Деловые Брюки 'Louis Vuitton'",
+    "Рюкзак 'Louis Vuitton'",
+    "Белая Джинсовка Varsity 'Louis Vuitton'",
+    "Синий Свитер Intarsia Logo 'Louis Vuitton'"
+}
+
+local ChromeHeartsList = {
+    "Чёрная Куртка 'Matty Boy X Chrome Hearts'",
+    "Черный Свитшот Horse Shoe 'Chrome Hearts'",
+    "Коричневая Худи Horse Shoe 'Chrome Hearts'",
+    "Чёрная Худи Multi Color Cross 'Chrome Hearts'",
+    "Бежевая Кофта Cemetery Cross  Tire Tracks 'Chrome Hearts'",
+    "Чёрная Худи 'Chrome Hearts'",
+    "Кожанные Джинсы 'Matty Boy X Chrome Hearts'",
+    "Джинсы 'Levis X Chrome Hearts'",
+    "Джинсы CROSS RED 'Chrome Hearts'",
+    "Джинсы CROSS PINK 'Chrome Hearts'",
+    "Джинсы CROSS GREEN 'Chrome Hearts'",
+    "Голубые Джинсы 'Chrome Hearts'",
+    "Серые Джинсы 'Chrome Hearts'",
+    "Цитрусовый Лонгслив Record 'Matty Boy X Chrome Hearts'",
+    "Красный Лонгслив Chomper 'Matty Boy X Chrome Hearts'",
+    "Черный Свитшот Multi Colors CROSS 'Chrome Hearts '"
+}
+
+local GucciList = {
+    "Розовая Рубашка  Love Letter 'Gucci'",
+    "Бежевый свитер Lamb 'Gucci'",
+    "Бежевая футболка Logo 'Gucci'",
+    "Красная Худи Snake Print 'Gucci'",
+    "Синий Спортивный Костюм 'Gucci'",
+    "Синяя Рубашка 'Gucci'",
+    "Куртка Tiger Print 'Gucci'",
+    "Монограммная Футболка Ghost 'Gucci'",
+    "Монограммная Джинсовка Ghost 'Gucci'",
+    "Чёрное Худи Future 'Gucci'",
+    "Чёрное Худи Logo 'Gucci'",
+    "Синяя Кожаная Куртка 'Gucci'",
+    "Синяя Джинсовка 'Gucci'",
+    "Черные Джинсы 'Snake Gucci'",
+    "Фиолетовая Джинсовка Варсити 'Gucci x OffWhite'"
+}
+
+local LuxeStoreList = {
+    "Синяя Худи 'Hermes'",
+    "Черная Футболка 'Amiri'",
+    "Белая Футболка 'Givenchy'",
+    "Черная Футболка 'Dior'",
+    "Белая Футболка 'Dior'",
+    "Белая Рубашка 'Dior'"
+}
+
+local AdidasList = {
+    "Белое поло Black 'Adidas'",
+    "Синяя Футболка  'Adidas X Gucci'",
+    "Черная Футболка Tricolor Logo 'Adidas'",
+    "Серая Кофта Rainbow 'Adidas'",
+    "Синий Спортивынй Костюм White 'Adidas",
+    "Белое Худи 'Adidas'",
+    "Джерси NY Knicks #33 'Adidas'",
+    "Зеленая Футболка White 'Adidas'",
+    "Красная Футболка Logo 'Adidas",
+    "Черное Худи 'Adidas'",
+    "Темно Синяя Кофта Black 'Adidas'",
+    "Оранджевая Кофта White 'Adidas'",
+    "Белая Футболка Pinstripe 'Adidas'",
+    "Джерси Manchester 'Adidas'",
+    "Темно Синяя Футболка Pinstripe 'Adidas'",
+    "Черная Футболка Orange 'Adidas'",
+    "Молочный Лонгслив Red 'Adidas'",
+    "Черная Кофта с Синимий Полосками 'Adidas'",
+    "Джерси Blazers 'Adidas'",
+    "Зеленая Футболка Logo 'Adidas'",
+    "Футболка American 'Adidas'",
+    "Серое Поло 'Adidas'",
+    "Фиолетовая Кофта White 'Adidas'",
+    "Красная Спортивка White 'Adidas'",
+    "Черная Ветровка Green Wave 'Adidas'",
+    "Мятная Футболка Logo 'Adidas'",
+    "Камуфляжная Ветровка Black 'Adidas'",
+    "Джерси Japan 'Adidas'",
+    "Чёрная Спортивка Gold 'Adidas'",
+    "Фиолтовая Спортивка White 'Adidas'",
+    "Красное Худи 'Adidas'",
+    "Кофта Red 'Adidas'",
+    "Белая Футболка Blue 'Adidas'",
+    "Белая Спортивка Blue 'Adidas'",
+    "Синие Худи 'Adidas'",
+    "Красная Футболка Cream 'Adidas'",
+    "Розовая Футболка White 'Adidas'",
+    "Лаймовая Кофта White 'Adidas'",
+    "Жёлтая Футболка Logo 'Adidas'",
+    "Чёрные Штаны Для Бега 'Adidas'",
+    "Чёрные Штаны BIG 'Adidas'",
+    "Жёлтые Шорты 'Adidas'",
+    "Тёмно Серые Шорты 'Adidas'",
+    "Чёрные Треники 'Adidas'",
+    "Чёрные Порванные Штаны 'Adidas'",
+    "Серые Спортивки 'Adidas'",
+    "Оранжевые Спортивные Штаны 'Adidas'",
+    "Чёрные штаны 'Adidas'",
+    "Чёрные Спортивные Штаны 'Adidas'",
+    "Чёрные Джинсы 'Adidas'",
+    "Широкие Штаны 'Adidas'",
+    "Белые Шорты 'Adidas'",
+    "Розовые Спортивные Штаны 'Adidas'",
+    "Серые Карго Штаны 'Adidas'",
+    "Чёрные Мятые Шорты 'Adidas'",
+    "Серые Джинсы 'Adidas'",
+    "Чёрная Футболка Tricolor France 'Adidas X Palace'",
+    "Красно Синия Кофта 'Adidas'",
+    "Джерси Argentina 'Adidas'",
+    "Оранжевая Футболка Black 'Adidas'",
+    "Голубое Поло 'Adidas X Gucci'",
+    "Джерзи Real Madrid 'Adidas'",
+    "Куртка Vintage 'Adidas'",
+    "Темно Синяя Кофта Orange 'Adidas'",
+    "Баскетбольная Футболка 'Adidas'",
+    "Фиолетовые Спортивные Штаны 'Adidas'",
+    "Жёлтые Спортивки 'Adidas'",
+    "Белая Футболка Tricolor Germany 'Adidas X Palace'",
+    "Спортивка American 'Adidas'",
+    "Кофта Camo 'Adidas X Bape'",
+    "Бордовая Кофта White 'Adidas'",
+    "Бирюзовая Спортивка White 'Adidas'",
+    "Свитер Logo 'Adidas'",
+    "Винтажная Ветровка Триколор White 'Adidas'",
+    "Чёрные Футбольные Штаны 'Adidas'",
+    "Двухстороняя Толстовка Black 'Adidas'",
+    "Чёрная Футболка Red Logo 'Adidas'",
+    "Серая Футболка Logo 'Adidas'",
+    "Белый Свитер Black 'Adidas'"
+}
+
+local MonclerList = {
+    "Штаны Genius 'Moncler'",
+    "Карго Штаны Day Namic Convertible 'Moncler'",
+    "Штаны Shiny 'Moncler X Palm Angels'",
+    "Штаны Lines 'Moncler X Palm Angels'",
+    "Штаны Straight Leg 'Moncler'",
+    "Штаны Midnight 'Moncler'",
+    "Штаны Logo 'Moncler'",
+    "Штаны 'Moncler X Palm Angels'",
+    "Розовый Желет Ouse 'Moncler'",
+}
+
+local NikeList = {
+    "Черная Худи 'Nike'",
+    "Серый Свиттер 'Nike'",
+    "Чёрная Майка 'Nike'",
+    "Серые Джинсы 'Nike'",
+    "Чёрные Джинсы 'Nike'",
+    "Чёрные Штаны 'Nike'",
+    "Чёрные Шорты 'Nike'",
+    "Бежевые Штаны 'Nike'",
+    "Оранежвая Футболка 'Nike'",
+    "Красный Свитер 'Nike'",
+    "Тёмно-Синяя Худи 'Nike'",
+    "Серые Штаны 'Nike'",
+    "Чёроные Джинсы 'Nike'",
+    "Серая Худи 'Nike'",
+    "Красные Штаны 'Nike Jordan'",
+    "Бежевая Толстовка 'Nike'",
+}
+
+local SupremeList = {
+    "Красный Свитшот Bevel 'Supreme'",
+    "Болотно-Коричневый Свитшот Split 'Supreme'",
+    "Чёрная Карго Куртка 'Supreme X TNF'",
+    "Жёлтая Футболка 'Supreme X Thrasher'",
+    "Чёрная Футболка Cat 'Supreme X Spitfire'",
+    "Чёрная Футболка 'Supreme X Anti Hero'",
+    "Белые Брюки 'Supreme X Brook Brothers'",
+    "Камуфляжные Оранжевые Штаны 'Supreme",
+    "Камуфляжные Красные Штаны 'Supreme'",
+    "Камуфляжные Фиолетовые Штаны 'Supreme'",
+    "Голубые Джинсы 'Supreme'",
+    "Камуфляжные Штаны Brooklyn 'Supreme'"
+}
+
+local TNFList = {
+    "Пуховик Bubble 'The North Face X Supreme'",
+    "Пуховик Nuptse Retro 'The North Face'",
+    "Пуховик Tropical Camo 'The North Face'",
+    "Куртка Mountain 'The North Face'",
+    "Зелёный Пуховик Vintage 'The North Face",
+    "Пуховик Printed Dryvent 'The North Face",
+    "Рубашка Поло Beshtor 'The North Face'",
+    "Куртка Triple Skull 'The North Face'",
+    "КБ Пуховик 'The North Face x Supreme'",
+    "Пуховик Red Box The North Face",
+    "Пуховик Retro Camo 'The North Face'",
+    "Пуховик Summit 'The North Face'",
+    "Свитшот Logo 'The North Face'",
+    "Пуховик Retro Nuptse 1996 'The North Face'",
+    "Пуховик INTERNATIONAL COLLECTION 'The North Face'",
+    "Ветровка Varsity 'The North Face x Supreme'",
+    "Пуховик Marble Light 'The North Face'",
+}
+
+local CPList = {
+    "Ветровка Pro Tec Lens 'C.P. Company'", 
+    "Белая худи Diagonal Raised 'C.P. Company'",
+    "Свитшот Lens Sort 'C.P. Company'",
+    "Свитшот Logo Intarsia 'C.P. Company'",
+    "Голубой Худи Diagonal Fleece 'C.P. Company'",
+    "Худи Рго Теc Arm Lens 'C.P. Company'",
+    "Свитер Logo Pin",
+    "Синий Жилет Chest Lens 'C.P. Company'",
+    "Пуховик D.D Shell 'C.P. Company'",
+    "Белая футболка Logo 'C.P. Company'",
+    "Куртка Есо Chrome 'C.P. Company'",
+    "Куртка Goggle 'C.P. Company'",
+    "Свитшот Logo Print 'C.P. Company'"
+}
+
+local VetementsList = {
+    "Белая футболка stop being rich 'Vetements'",
+    "Синяя Куртка Global Mind 'Vetements'",
+    "Черное Худи Private Bay 'Vetements'",
+    "Черное Худи RAMMSTEIN 'Vetements'",
+    "Рубашка Marilyn Manson 'Vetements'",
+    "Синий Лонгслив Made in Europe 'Vetements'",
+    "Фиолетовая Худи Only Vetements 'Vetements'",
+    "Серое Худи Hug Me 'Vetements'",
+    "Розовые Пижамные Штаны Pink Checkered 'Vetements'",
+    "Белые Штаны SS19 Distressed 'Vetements'",
+    "Серые Штаны 'Vetements'",
+    "Черные Штаны Gothic Mega Flared 'Vetements'",
+    "Бежевые Штаны Made on Earth 'Vetements'",
+    "Джинсы Winter 2018 Logo Embroidered 'Vetements'",
+    "Камуфляжные Штаны Camo Stikers 'Vetements'",
+    "Красные Штаны Fan Deconstucted 'Vetements'",
+    "Оранжевые  Пижамные  Штаны Gray & Orange Check 'Vetements'",
+    "Пижамные Штаны Spider Man 'Vetements'",
+    "Розовое Худи I got Lucky 'Vetements'",
+    "Черное Зип Худи Bro 'Embroidery'",
+    "Черное Худи Ecstasy 'Vetements'",
+    "Черная Футболка Think While Its Still Legal 'Vetements'"
+}
+
+local NFList = {
+    "Белая Футболка 'Palm Angels'",
+    "Футболка 'Rip N Dip'",
+    "Футболка 'Dior X Travis Scott'",
+    "Белая Футболка If You Reading 'Drake'",
+    "Черная Худи 'Yeezy X GAP'",
+    "Худи Astroworld 'Travis Scott'",
+    "Штаны SS17 'Supreme X TNF'",
+    "Коричневые Штаны 'Travis Scott Cactus Jack'",
+    "Штаны Gamma 'Arcteryx'",
+    "Спортивные Штаны 'Saints Laurent"
+}
+
+local XiaomiList = {
+    "Телефон 'Xiaomi Redmi Note 8'"
+}
+
+local AppleList = {
+    "Телефон 'iPhone 13'",
+    "Телефон 'iPhone 13 Pro Max'",
+    "Телефон 'iPhone 14'",
+    "Телефон 'iPhone 14 Pro Max'",
+    "Телефон 'iPhone 15'",
+    "Телефон 'iPhone 15 Pro Max'"
+}
+
+local RickOwensList = {
+    "Джинсовая Куртка С Кожаными Рукавами 'Rick Owens'",
+    "Голубая Зип Худи Jason 'Rick Owens'",
+    "Чёрная Футболка Poem 'Rick Owens'",
+    "Белая Футболка World Tour 'Rick Owens X Stussy'",
+    "Чёрный Свитшот 'Rick Owens X Moncler'",
+    "Коричневая Худи Felpa 'Rick Owens'",
+    "Чёрная Футболка Pentagram 'Rick Owens'"
+}
+
+local LimitedList = {
+   "Зип Худи Minion 'Bape X Minions'",
+   "Фиолетовые Штаны Alicia Keys 'Moncler'",
+   "Белая Футболка Box Logo 'Supreme X Bape'",
+   "Пуховик Geographic 'The North Face X Supreme'",
+   "Рюкзак 'Tiger'"
+}
+
+local player_name = game.Players.LocalPlayer.Name
+
+local getPlayerData = game:GetService("ReplicatedStorage"):FindFirstChild("GameNetwork"):FindFirstChild("ServerNetwork"):FindFirstChild("GetPlayerData");
+local sellClothing = game:GetService("ReplicatedStorage"):FindFirstChild("GameNetwork"):FindFirstChild("ServerNetwork"):FindFirstChild("SellClothing");
+
+local itemsSold = 0;
+local sellDelay = 5;
+
+function AutoSell()
+
+    if itemsSold >= 10 then
+        task.wait(5)
+        itemsSold = 0
+    end
+    
+    local playerData = getPlayerData:InvokeServer()
+    
+    for name,data in pairs(playerData) do
+        if name ~= "Inventory" or type(data) ~= "table" then 
+            continue
+        end
+        
+        for _,itemData in pairs(data) do
+            local itemName = itemData["ItemName"]
+            local itemHash = itemData["ItemHash"]
+            local itemPrice = itemData["Price"]
+        
+            if itemName == nil or itemHash == nil or itemPrice == nil then
+                continue
+            end
+        
+            sellClothing:InvokeServer(itemHash);
+            itemsSold += 1
+            
+        end
+    end
+
+    
+
+end
+
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+
+local Window = OrionLib:MakeWindow({Name = "Casual Stock | made by cdka9 (aka bogdankrutoi)", HidePremium = false, SaveConfig = false, ConfigFolder = "casualstock"})
+local Tab1 = Window:MakeTab({
+	Name = "Функционал",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+Tab1:AddSlider({
+	Name = "Спидхак",
+	Min = 16,
+	Max = 38,
+    Default = 16,
+    Color = Color3.fromRGB(255,255,255),
+	Increment = 1,
+    ValueName = " ",
+    CurrentValue = game.Players.LocalPlayer.Character.Humanoid.WalkSpeed,
+    Callback = function(Value)
+        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = Value
+    end,
+ })
+
+
+ _G.Noclip = false
+Tab1:AddToggle({
+    Name = "Ноуклип",
+    Default = false,
+    Callback = function(Value)
+        local Character = game.Players.LocalPlayer.Character
+
+        if Value then
+            _G.Noclip = true
+            while _G.Noclip == true do
+                for _,v in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+                    if v:IsA('BasePart') and v.CanCollide and v.Name ~= floatName then
+                        v.CanCollide = false
+                    end
+                end
+
+                task.wait(1)
+            end
+        else
+            _G.Noclip = false
+            for _,v in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+                if v:IsA('BasePart') and v.Name ~= floatName then
+                    v.CanCollide = true
+                end
+            end
+        end
+    end
+})
+
+local Section = Tab1:AddSection({
+    Name = "Автоматические функции"
+})
+
+_G.Sell = false
+Tab1:AddToggle({
+    Name = "Авто-продажа вещей",
+    Default = false,
+	Callback = function(value)
+        if value then 
+			_G.Auto_Sell = true
+			while _G.Auto_Sell do
+                AutoSell()
+                task.wait(sellDelay)
+            end         
+		else
+			_G.Auto_Sell = false
+		end 
+	end    
+})
+
+local Tab2 = Window:MakeTab({
+	Name = "ВХ На магазины",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+_G.RefreshRate = 0.7
+
+local RefreshRateSection = Tab2:AddSection({
+    Name = "Настройки ВХ"
+})
+
+Tab2:AddSlider({
+    Name = "Частота Обновления (Чем меньше тем лучше)",
+    Min = 0.1,
+    Max = 1,
+    Default = 0.7,
+    Color = Color3.fromRGB(255,255,255),
+    Increment = 0.05,
+    ValueName = " ",
+    Callback = function(Value)
+        _G.RefreshRate = Value
+    end,
+})
+
+local ColorSection = Tab2:AddSection({
+    Name = "Цвет ВХ"
+})
+
+local OutlineColorPicker = Tab2:AddColorpicker({
+    Name = "Цвет 1",
+    Default = Color3.fromRGB(255,255,255),
+    Callback = function(Value)
+        for i, v in pairs(workspace.World.Debris:FindFirstChild("Stores"):GetDescendants()) do
+            if v:FindFirstChild("Highlight") then
+                local Highlight = v:FindFirstChild("Highlight")
+                Highlight.OutlineColor = Value
+            end
+        end
+    end
+})
+
+local FillColorPicker = Tab2:AddColorpicker({
+    Name = "Цвет 2",
+    Default = Color3.fromRGB(0,255,96),
+    Callback = function(Value)
+        for i, v in pairs(workspace.World.Debris:FindFirstChild("Stores"):GetDescendants()) do
+            if v:FindFirstChild("Highlight") then
+                local Highlight = v:FindFirstChild("Highlight")
+                Highlight.FillColor = Value
+            end
+        end
+    end
+})
+
+local TransparencySlider = Tab2:AddSlider({
+    Name = "Прозрачность",
+    Min = 0,
+    Max = 0.6,
+    Default = 0.6,
+    Color = Color3.fromRGB(255,255,255),
+    Increment = 0.05,
+    Callback = function(Value)
+        for i, v in pairs(workspace.World.Debris:FindFirstChild("Stores"):GetDescendants()) do
+            if v:FindFirstChild("Highlight") then
+                local Highlight = v:FindFirstChild("Highlight")
+                Highlight.FillTransparency = Value
+            end
+        end
+    end,
+})
+
+local ShopSection = Tab2:AddSection({
+    Name = "Магазины"
+})
+
+_G.SportMaster = false
+Tab2:AddToggle({
+    Name = "Спортмастер",
+    Default = false,
+    Callback = function(Value)
+        if Value then
+            _G.SportMaster = true
+            while _G.SportMaster == true do
+                for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                    if v:FindFirstChildOfClass("ProximityPrompt") then
+                        if table.find(SportMasterList, v.ProximityPrompt.ObjectText) then
+                            local Name = v.ProximityPrompt.ObjectText
+                            local Index = table.find(SportMasterList, Name)
+                            local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                            if tonumber(Price) < SportMasterPrice[Index] then
+                                if not v:FindFirstChild("Highlight") then
+                                    local Highlight = Instance.new("Highlight")
+                                    Highlight.Parent = v
+                                    Highlight.OutlineColor = OutlineColorPicker.Color
+                                    Highlight.FillColor = FillColorPicker.Color
+                                    Highlight.FillTransparency = TransparencySlider.CurrentValue
+                                end
+                            end
+                        end
+
+                        if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                            v:FindFirstChild("Highlight"):Remove()
+                        end
+                    end 
+                end
+
+                task.wait(_G.RefreshRate)
+            end
+        else
+            _G.SportMaster = false
+            for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                if v:FindFirstChildOfClass("ProximityPrompt") then
+                    if table.find(SportMasterList, v.ProximityPrompt.ObjectText) then
+                        local Name = v.ProximityPrompt.ObjectText
+                        local Index = table.find(SportMasterList, Name)
+                        local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                        if tonumber(Price) < SportMasterPrice[Index] then
+                            if v:FindFirstChild("Highlight") then
+                                v:FindFirstChild("Highlight"):Remove()
+                            end
+                        end
+                    end
+
+                    if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                        v:FindFirstChild("Highlight"):Remove()
+                    end
+                end 
+            end
+        end
+    end
+})
+
+_G.Zara = false
+Tab2:AddToggle({
+    Name = "Zara",
+    Default = false,
+    Callback = function(Value)
+        if Value then
+            _G.Zara = true
+            while _G.Zara == true do
+                for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                    if v:FindFirstChildOfClass("ProximityPrompt") then
+                        if table.find(ZaraList, v.ProximityPrompt.ObjectText) then
+                            local Name = v.ProximityPrompt.ObjectText
+                            local Index = table.find(ZaraList, Name)
+                            local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                            if tonumber(Price) < ZaraPrice[Index] then
+                                if not v:FindFirstChild("Highlight") then
+                                    local Highlight = Instance.new("Highlight")
+                                    Highlight.Parent = v
+                                    Highlight.OutlineColor = OutlineColorPicker.Color
+                                    Highlight.FillColor = FillColorPicker.Color
+                                    Highlight.FillTransparency = TransparencySlider.CurrentValue
+                                end
+                            end
+                        end
+
+                        if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                            v:FindFirstChild("Highlight"):Remove()
+                        end
+                    end 
+                end
+                task.wait(_G.RefreshRate)
+            end
+        else
+            _G.Zara = false
+            for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                if v:FindFirstChildOfClass("ProximityPrompt") then
+                    if table.find(ZaraList, v.ProximityPrompt.ObjectText) then
+                        local Name = v.ProximityPrompt.ObjectText
+                        local Index = table.find(ZaraList, Name)
+                        local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                        if tonumber(Price) < ZaraPrice[Index] then
+                            if v:FindFirstChild("Highlight") then
+                                v:FindFirstChild("Highlight"):Remove()
+                            end
+                        end
+                    end
+
+                    if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                        v:FindFirstChild("Highlight"):Remove()
+                    end
+                end 
+            end
+        end
+    end
+})
+
+_G.Bape = false
+Tab2:AddToggle({
+    Name = "Bape",
+    Default = false,
+    Callback = function(Value)
+        if Value then
+            _G.Bape = true
+            while _G.Bape == true do
+                for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                    if v:FindFirstChildOfClass("ProximityPrompt") then
+                        if table.find(BapeList, v.ProximityPrompt.ObjectText) then
+                            local Name = v.ProximityPrompt.ObjectText
+                            local Index = table.find(BapeList, Name)
+                            local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                            if tonumber(Price) < BapePrice[Index] then
+                                if not v:FindFirstChild("Highlight") then
+                                    local Highlight = Instance.new("Highlight")
+                                    Highlight.Parent = v
+                                    Highlight.OutlineColor = OutlineColorPicker.Color
+                                    Highlight.FillColor = FillColorPicker.Color
+                                    Highlight.FillTransparency = TransparencySlider.CurrentValue
+                                end
+                            end
+                        end
+
+                        if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                            v:FindFirstChild("Highlight"):Remove()
+                        end
+                    end 
+                end
+
+                task.wait(_G.RefreshRate)
+            end
+        else
+            _G.Bape = false
+            for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                if v:FindFirstChildOfClass("ProximityPrompt") then
+                    if table.find(BapeList, v.ProximityPrompt.ObjectText) then
+                        local Name = v.ProximityPrompt.ObjectText
+                        local Index = table.find(BapeList, Name)
+                        local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                        if tonumber(Price) < BapePrice[Index] then
+                            if v:FindFirstChild("Highlight") then
+                                v:FindFirstChild("Highlight"):Remove()
+                            end
+                        end
+                    end
+
+                    if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                        v:FindFirstChild("Highlight"):Remove()
+                    end
+                end 
+            end
+        end
+    end
+})
+
+_G.StoneIsland = false
+Tab2:AddToggle({
+    Name = "Stone Island",
+    Default = false,
+    Callback = function(Value)
+        if Value then
+            _G.StoneIsland = true
+            while _G.StoneIsland == true do
+                for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                    if v:FindFirstChildOfClass("ProximityPrompt") then
+                        if table.find(StoneIslandList, v.ProximityPrompt.ObjectText) then
+                            local Name = v.ProximityPrompt.ObjectText
+                            local Index = table.find(StoneIslandList, Name)
+                            local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                            if tonumber(Price) < StoneIslandPrice[Index] then
+                                if not v:FindFirstChild("Highlight") then
+                                    local Highlight = Instance.new("Highlight")
+                                    Highlight.Parent = v
+                                    Highlight.OutlineColor = OutlineColorPicker.Color
+                                    Highlight.FillColor = FillColorPicker.Color
+                                    Highlight.FillTransparency = TransparencySlider.CurrentValue
+                                end
+                            end
+                        end
+
+                        if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                            v:FindFirstChild("Highlight"):Remove()
+                        end
+                    end 
+                end
+
+                task.wait(_G.RefreshRate)
+            end
+        else
+            _G.StoneIsland = false
+            for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                if v:FindFirstChildOfClass("ProximityPrompt") then
+                    if table.find(StoneIslandList, v.ProximityPrompt.ObjectText) then
+                        local Name = v.ProximityPrompt.ObjectText
+                        local Index = table.find(StoneIslandList, Name)
+                        local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                        if tonumber(Price) < StoneIslandPrice[Index] then
+                            if v:FindFirstChild("Highlight") then
+                                v:FindFirstChild("Highlight"):Remove()
+                            end
+                        end
+                    end
+
+                    if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                        v:FindFirstChild("Highlight"):Remove()
+                    end
+                end 
+            end
+        end
+    end
+})
+
+_G.Balenciaga = false
+Tab2:AddToggle({
+    Name = "Balenciaga",
+    Default = false,
+    Callback = function(Value)
+        if Value then
+            _G.Balenciaga = true
+            while _G.Balenciaga == true do
+                for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                    if v:FindFirstChildOfClass("ProximityPrompt") then
+                        if table.find(BalenciagaList, v.ProximityPrompt.ObjectText) then
+                            local Name = v.ProximityPrompt.ObjectText
+                            local Index = table.find(BalenciagaList, Name)
+                            local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                            if tonumber(Price) < BalenciagaPrice[Index] then
+                                if not v:FindFirstChild("Highlight") then
+                                    local Highlight = Instance.new("Highlight")
+                                    Highlight.Parent = v
+                                    Highlight.OutlineColor = OutlineColorPicker.Color
+                                    Highlight.FillColor = FillColorPicker.Color
+                                    Highlight.FillTransparency = TransparencySlider.CurrentValue
+                                end
+                            end
+                        end
+
+                        if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                            v:FindFirstChild("Highlight"):Remove()
+                        end
+                    end 
+                end
+
+                task.wait(_G.RefreshRate)
+            end
+        else
+            _G.Balenciaga = false
+            for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                if v:FindFirstChildOfClass("ProximityPrompt") then
+                    if table.find(BalenciagaList, v.ProximityPrompt.ObjectText) then
+                        local Name = v.ProximityPrompt.ObjectText
+                        local Index = table.find(BalenciagaList, Name)
+                        local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                        if tonumber(Price) < BalenciagaPrice[Index] then
+                            if v:FindFirstChild("Highlight") then
+                                v:FindFirstChild("Highlight"):Remove()
+                            end
+                        end
+                    end
+
+                    if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                        v:FindFirstChild("Highlight"):Remove()
+                    end
+                end 
+            end
+        end
+    end
+})
+
+_G.ChromeHearts = false
+Tab2:AddToggle({
+    Name = "Chrome Hearts",
+    Default = false,
+    Callback = function(Value)
+        if Value then
+            _G.ChromeHearts = true
+            while _G.ChromeHearts == true do
+                for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                    if v:FindFirstChildOfClass("ProximityPrompt") then
+                        if table.find(ChromeHeartsList, v.ProximityPrompt.ObjectText) then
+                            local Name = v.ProximityPrompt.ObjectText
+                            local Index = table.find(ChromeHeartsList, Name)
+                            local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                            if tonumber(Price) < ChromeHeartsPrice[Index] then
+                                if not v:FindFirstChild("Highlight") then
+                                    local Highlight = Instance.new("Highlight")
+                                    Highlight.Parent = v
+                                    Highlight.OutlineColor = OutlineColorPicker.Color
+                                    Highlight.FillColor = FillColorPicker.Color
+                                    Highlight.FillTransparency = TransparencySlider.CurrentValue
+                                end
+                            end
+                        end
+
+                        if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                            v:FindFirstChild("Highlight"):Remove()
+                        end
+                    end 
+                end
+
+                task.wait(_G.RefreshRate)
+            end
+        else
+            _G.ChromeHearts = false
+            for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                if v:FindFirstChildOfClass("ProximityPrompt") then
+                    if table.find(ChromeHeartsList, v.ProximityPrompt.ObjectText) then
+                        local Name = v.ProximityPrompt.ObjectText
+                        local Index = table.find(ChromeHeartsList, Name)
+                        local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                        if tonumber(Price) < ChromeHeartsPrice[Index] then
+                            if v:FindFirstChild("Highlight") then
+                                v:FindFirstChild("Highlight"):Remove()
+                            end
+                        end
+                    end
+
+                    if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                        v:FindFirstChild("Highlight"):Remove()
+                    end
+                end 
+            end
+        end
+    end
+})
+
+_G.LouisVuitton = false
+Tab2:AddToggle({
+    Name = "Louis Vuitton",
+    Default = false,
+    Callback = function(Value)
+        if Value then
+            _G.LouisVuitton = true
+            while _G.LouisVuitton == true do
+                for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                    if v:FindFirstChildOfClass("ProximityPrompt") then
+                        if table.find(LouisVuittonList, v.ProximityPrompt.ObjectText) then
+                            local Name = v.ProximityPrompt.ObjectText
+                            local Index = table.find(LouisVuittonList, Name)
+                            local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                            if tonumber(Price) < LouisVuittonPrice[Index] then
+                                if not v:FindFirstChild("Highlight") then
+                                    local Highlight = Instance.new("Highlight")
+                                    Highlight.Parent = v
+                                    Highlight.OutlineColor = OutlineColorPicker.Color
+                                    Highlight.FillColor = FillColorPicker.Color
+                                    Highlight.FillTransparency = TransparencySlider.CurrentValue
+                                end
+                            end
+                        end
+
+                        if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                            v:FindFirstChild("Highlight"):Remove()
+                        end
+                    end 
+                end
+
+                task.wait(_G.RefreshRate)
+            end
+        else
+            _G.LouisVuitton = false
+            for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                if v:FindFirstChildOfClass("ProximityPrompt") then
+                    if table.find(LouisVuittonList, v.ProximityPrompt.ObjectText) then
+                        local Name = v.ProximityPrompt.ObjectText
+                        local Index = table.find(LouisVuittonList, Name)
+                        local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                        if tonumber(Price) < LouisVuittonPrice[Index] then
+                            if v:FindFirstChild("Highlight") then
+                                v:FindFirstChild("Highlight"):Remove()
+                            end
+                        end
+                    end
+
+                    if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                        v:FindFirstChild("Highlight"):Remove()
+                    end
+                end 
+            end
+        end
+    end
+})
+
+_G.Gucci = false
+Tab2:AddToggle({
+    Name = "Gucci",
+    Default = false,
+    Callback = function(Value)
+        if Value then
+            _G.Gucci = true
+            while _G.Gucci == true do
+                for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                    if v:FindFirstChildOfClass("ProximityPrompt") then
+                        if table.find(GucciList, v.ProximityPrompt.ObjectText) then
+                            local Name = v.ProximityPrompt.ObjectText
+                            local Index = table.find(GucciList, Name)
+                            local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                            if tonumber(Price) < GucciPrice[Index] then
+                                if not v:FindFirstChild("Highlight") then
+                                    local Highlight = Instance.new("Highlight")
+                                    Highlight.Parent = v
+                                    Highlight.OutlineColor = OutlineColorPicker.Color
+                                    Highlight.FillColor = FillColorPicker.Color
+                                    Highlight.FillTransparency = TransparencySlider.CurrentValue
+                                end
+                            end
+                        end
+
+                        if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                            v:FindFirstChild("Highlight"):Remove()
+                        end
+                    end 
+                end
+
+                task.wait(_G.RefreshRate)
+            end
+        else
+            _G.Gucci = false
+            for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                if v:FindFirstChildOfClass("ProximityPrompt") then
+                    if table.find(GucciList, v.ProximityPrompt.ObjectText) then
+                        local Name = v.ProximityPrompt.ObjectText
+                        local Index = table.find(GucciList, Name)
+                        local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                        if tonumber(Price) < GucciPrice[Index] then
+                            if v:FindFirstChild("Highlight") then
+                                v:FindFirstChild("Highlight"):Remove()
+                            end
+                        end
+                    end
+
+                    if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                        v:FindFirstChild("Highlight"):Remove()
+                    end
+                end 
+            end
+        end
+    end
+})
+
+_G.LuxeStore = false
+Tab2:AddToggle({
+    Name = "Luxe Store (часто паль, не рекомендую)",
+    Default = false,
+    Callback = function(Value)
+        if Value then
+            _G.LuxeStore = true
+            while _G.LuxeStore == true do
+                for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                    if v:FindFirstChildOfClass("ProximityPrompt") then
+                        if table.find(LuxeStoreList, v.ProximityPrompt.ObjectText) then
+                            local Name = v.ProximityPrompt.ObjectText
+                            local Index = table.find(LuxeStoreList, Name)
+                            local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                            if tonumber(Price) < LuxeStorePrice[Index] then
+                                if not v:FindFirstChild("Highlight") then
+                                    local Highlight = Instance.new("Highlight")
+                                    Highlight.Parent = v
+                                    Highlight.OutlineColor = OutlineColorPicker.Color
+                                    Highlight.FillColor = FillColorPicker.Color
+                                    Highlight.FillTransparency = TransparencySlider.CurrentValue
+                                end
+                            end
+                        end
+
+                        if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                            v:FindFirstChild("Highlight"):Remove()
+                        end
+                    end 
+                end
+
+                task.wait(_G.RefreshRate)
+            end
+        else
+            _G.LuxeStore = false
+            for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                if v:FindFirstChildOfClass("ProximityPrompt") then
+                    if table.find(SportMasterList, v.ProximityPrompt.ObjectText) then
+                        local Name = v.ProximityPrompt.ObjectText
+                        local Index = table.find(LuxeStoreList, Name)
+                        local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                        if tonumber(Price) < LuxeStorePrice[Index] then
+                            if v:FindFirstChild("Highlight") then
+                                v:FindFirstChild("Highlight"):Remove()
+                            end
+                        end
+                    end
+
+                    if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                        v:FindFirstChild("Highlight"):Remove()
+                    end
+                end 
+            end
+        end
+    end
+})
+
+_G.Adidas = false
+Tab2:AddToggle({
+    Name = "Adidas (магазин говна поэтому не окуп)",
+    Default = false,
+    Callback = function(Value)
+        if Value then
+            _G.Adidas = true
+            while _G.Adidas == true do
+                for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                    if v:FindFirstChildOfClass("ProximityPrompt") then
+                        if table.find(AdidasList, v.ProximityPrompt.ObjectText) then
+                            local Name = v.ProximityPrompt.ObjectText
+                            local Index = table.find(AdidasList, Name)
+                            local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                            if tonumber(Price) < AdidasPrice[Index] then
+                                if not v:FindFirstChild("Highlight") then
+                                    local Highlight = Instance.new("Highlight")
+                                    Highlight.Parent = v
+                                    Highlight.OutlineColor = OutlineColorPicker.Color
+                                    Highlight.FillColor = FillColorPicker.Color
+                                    Highlight.FillTransparency = TransparencySlider.CurrentValue
+                                end
+                            end
+                        end
+
+                        if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                            v:FindFirstChild("Highlight"):Remove()
+                        end
+                    end 
+                end
+
+                task.wait(_G.RefreshRate)
+            end
+        else
+            _G.Adidas = false
+            for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                if v:FindFirstChildOfClass("ProximityPrompt") then
+                    if table.find(AdidasList, v.ProximityPrompt.ObjectText) then
+                        local Name = v.ProximityPrompt.ObjectText
+                        local Index = table.find(AdidasList, Name)
+                        local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                        if tonumber(Price) < AdidasPrice[Index] then
+                            if v:FindFirstChild("Highlight") then
+                                v:FindFirstChild("Highlight"):Remove()
+                            end
+                        end
+                    end
+
+                    if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                        v:FindFirstChild("Highlight"):Remove()
+                    end
+                end 
+            end
+        end
+    end
+})
+
+_G.Moncler = false
+Tab2:AddToggle({
+    Name = "Moncler",
+    Default = false,
+    Callback = function(Value)
+        if Value then
+            _G.Moncler = true
+            while _G.Moncler == true do
+                for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                    if v:FindFirstChildOfClass("ProximityPrompt") then
+                        if table.find(MonclerList, v.ProximityPrompt.ObjectText) then
+                            local Name = v.ProximityPrompt.ObjectText
+                            local Index = table.find(MonclerList, Name)
+                            local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                            if tonumber(Price) < MonclerPrice[Index] then
+                                if not v:FindFirstChild("Highlight") then
+                                    local Highlight = Instance.new("Highlight")
+                                    Highlight.Parent = v
+                                    Highlight.OutlineColor = OutlineColorPicker.Color
+                                    Highlight.FillColor = FillColorPicker.Color
+                                    Highlight.FillTransparency = TransparencySlider.CurrentValue
+                                end
+                            end
+                        end
+
+                        if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                            v:FindFirstChild("Highlight"):Remove()
+                        end
+                    end 
+                end
+
+                task.wait(_G.RefreshRate)
+            end
+        else
+            _G.Moncler = false
+            for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                if v:FindFirstChildOfClass("ProximityPrompt") then
+                    if table.find(MonclerList, v.ProximityPrompt.ObjectText) then
+                        local Name = v.ProximityPrompt.ObjectText
+                        local Index = table.find(MonclerList, Name)
+                        local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                        if tonumber(Price) < MonclerPrice[Index] then
+                            if v:FindFirstChild("Highlight") then
+                                v:FindFirstChild("Highlight"):Remove()
+                            end
+                        end
+                    end
+
+                    if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                        v:FindFirstChild("Highlight"):Remove()
+                    end
+                end 
+            end
+        end
+    end
+})
+
+_G.Nike = false
+Tab2:AddToggle({
+    Name = "Nike (иногда не окуп)",
+    Default = false,
+    Callback = function(Value)
+        if Value then
+            _G.Nike = true
+            while _G.Nike == true do
+                for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                    if v:FindFirstChildOfClass("ProximityPrompt") then
+                        if table.find(NikeList, v.ProximityPrompt.ObjectText) then
+                            local Name = v.ProximityPrompt.ObjectText
+                            local Index = table.find(NikeList, Name)
+                            local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                            if tonumber(Price) < NikePrice[Index] then
+                                if not v:FindFirstChild("Highlight") then
+                                    local Highlight = Instance.new("Highlight")
+                                    Highlight.Parent = v
+                                    Highlight.OutlineColor = OutlineColorPicker.Color
+                                    Highlight.FillColor = FillColorPicker.Color
+                                    Highlight.FillTransparency = TransparencySlider.CurrentValue
+                                end
+                            end
+                        end
+
+                        if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                            v:FindFirstChild("Highlight"):Remove()
+                        end
+                    end 
+                end
+
+                task.wait(_G.RefreshRate)
+            end
+        else
+            _G.Nike = false
+            for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                if v:FindFirstChildOfClass("ProximityPrompt") then
+                    if table.find(NikeList, v.ProximityPrompt.ObjectText) then
+                        local Name = v.ProximityPrompt.ObjectText
+                        local Index = table.find(NikeList, Name)
+                        local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                        if tonumber(Price) < NikePrice[Index] then
+                            if v:FindFirstChild("Highlight") then
+                                v:FindFirstChild("Highlight"):Remove()
+                            end
+                        end
+                    end
+
+                    if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                        v:FindFirstChild("Highlight"):Remove()
+                    end
+                end 
+            end
+        end
+    end
+})
+
+_G.Supreme = false
+Tab2:AddToggle({
+    Name = "Supreme (иногда не окуп)",
+    Default = false,
+    Callback = function(Value)
+        if Value then
+            _G.Supreme = true
+            while _G.Supreme == true do
+                for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                    if v:FindFirstChildOfClass("ProximityPrompt") then
+                        if table.find(SupremeList, v.ProximityPrompt.ObjectText) then
+                            local Name = v.ProximityPrompt.ObjectText
+                            local Index = table.find(SupremeList, Name)
+                            local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                            if tonumber(Price) < SupremePrice[Index] then
+                                if not v:FindFirstChild("Highlight") then
+                                    local Highlight = Instance.new("Highlight")
+                                    Highlight.Parent = v
+                                    Highlight.OutlineColor = OutlineColorPicker.Color
+                                    Highlight.FillColor = FillColorPicker.Color
+                                    Highlight.FillTransparency = TransparencySlider.CurrentValue
+                                end
+                            end
+                        end
+
+                        if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                            v:FindFirstChild("Highlight"):Remove()
+                        end
+                    end 
+                end
+
+                task.wait(_G.RefreshRate)
+            end
+        else
+            _G.Supreme = false
+            for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                if v:FindFirstChildOfClass("ProximityPrompt") then
+                    if table.find(SupremeList, v.ProximityPrompt.ObjectText) then
+                        local Name = v.ProximityPrompt.ObjectText
+                        local Index = table.find(SupremeList, Name)
+                        local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                        if tonumber(Price) < SupremePrice[Index] then
+                            if v:FindFirstChild("Highlight") then
+                                v:FindFirstChild("Highlight"):Remove()
+                            end
+                        end
+                    end
+
+                    if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                        v:FindFirstChild("Highlight"):Remove()
+                    end
+                end 
+            end
+        end
+    end
+})
+
+_G.CP = false
+Tab2:AddToggle({
+    Name = "C.P. Company",
+    Default = false,
+    Callback = function(Value)
+        if Value then
+            _G.CP = true
+            while _G.CP == true do
+                for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                    if v:FindFirstChildOfClass("ProximityPrompt") then
+                        if table.find(CPList, v.ProximityPrompt.ObjectText) then
+                            local Name = v.ProximityPrompt.ObjectText
+                            local Index = table.find(CPList, Name)
+                            local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                            if tonumber(Price) < CPPrice[Index] then
+                                if not v:FindFirstChild("Highlight") then
+                                    local Highlight = Instance.new("Highlight")
+                                    Highlight.Parent = v
+                                    Highlight.OutlineColor = OutlineColorPicker.Color
+                                    Highlight.FillColor = FillColorPicker.Color
+                                    Highlight.FillTransparency = TransparencySlider.CurrentValue
+                                end
+                            end
+                        end
+
+                        if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                            v:FindFirstChild("Highlight"):Remove()
+                        end
+                    end 
+                end
+
+                task.wait(_G.RefreshRate)
+            end
+        else
+            _G.CP = false
+            for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                if v:FindFirstChildOfClass("ProximityPrompt") then
+                    if table.find(CPList, v.ProximityPrompt.ObjectText) then
+                        local Name = v.ProximityPrompt.ObjectText
+                        local Index = table.find(CPList, Name)
+                        local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                        if tonumber(Price) < CPPrice[Index] then
+                            if v:FindFirstChild("Highlight") then
+                                v:FindFirstChild("Highlight"):Remove()
+                            end
+                        end
+                    end
+
+                    if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                        v:FindFirstChild("Highlight"):Remove()
+                    end
+                end 
+            end
+        end
+    end
+})
+
+_G.TNF = false
+Tab2:AddToggle({
+    Name = "The North Face",
+    Default = false,
+    Callback = function(Value)
+        if Value then
+            _G.TNF = true
+            while _G.TNF == true do
+                for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                    if v:FindFirstChildOfClass("ProximityPrompt") then
+                        if table.find(TNFList, v.ProximityPrompt.ObjectText) then
+                            local Name = v.ProximityPrompt.ObjectText
+                            local Index = table.find(TNFList, Name)
+                            local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                            if tonumber(Price) < TNFPrice[Index] then
+                                if not v:FindFirstChild("Highlight") then
+                                    local Highlight = Instance.new("Highlight")
+                                    Highlight.Parent = v
+                                    Highlight.OutlineColor = OutlineColorPicker.Color
+                                    Highlight.FillColor = FillColorPicker.Color
+                                    Highlight.FillTransparency = TransparencySlider.CurrentValue
+                                end
+                            end
+                        end
+
+                        if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                            v:FindFirstChild("Highlight"):Remove()
+                        end
+                    end 
+                end
+
+                task.wait(_G.RefreshRate)
+            end
+        else
+            _G.TNF = false
+            for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                if v:FindFirstChildOfClass("ProximityPrompt") then
+                    if table.find(TNFList, v.ProximityPrompt.ObjectText) then
+                        local Name = v.ProximityPrompt.ObjectText
+                        local Index = table.find(TNFList, Name)
+                        local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                        if tonumber(Price) < TNFPrice[Index] then
+                            if v:FindFirstChild("Highlight") then
+                                v:FindFirstChild("Highlight"):Remove()
+                            end
+                        end
+                    end
+
+                    if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                        v:FindFirstChild("Highlight"):Remove()
+                    end
+                end 
+            end
+        end
+    end
+})
+
+_G.Vetements = false
+Tab2:AddToggle({
+    Name = "Vetements",
+    Default = false,
+    Callback = function(Value)
+        if Value then
+            _G.Vetements = true
+            while _G.Vetements == true do
+                for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                    if v:FindFirstChildOfClass("ProximityPrompt") then
+                        if table.find(VetementsList, v.ProximityPrompt.ObjectText) then
+                            local Name = v.ProximityPrompt.ObjectText
+                            local Index = table.find(VetementsList, Name)
+                            local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                            if tonumber(Price) < VetementsPrice[Index] then
+                                if not v:FindFirstChild("Highlight") then
+                                    local Highlight = Instance.new("Highlight")
+                                    Highlight.Parent = v
+                                    Highlight.OutlineColor = OutlineColorPicker.Color
+                                    Highlight.FillColor = FillColorPicker.Color
+                                    Highlight.FillTransparency = TransparencySlider.CurrentValue
+                                end
+                            end
+                        end
+
+                        if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                            v:FindFirstChild("Highlight"):Remove()
+                        end
+                    end 
+                end
+
+                task.wait(_G.RefreshRate)
+            end
+        else
+            _G.Vetements = false
+            for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                if v:FindFirstChildOfClass("ProximityPrompt") then
+                    if table.find(VetementsList, v.ProximityPrompt.ObjectText) then
+                        local Name = v.ProximityPrompt.ObjectText
+                        local Index = table.find(VetementsList, Name)
+                        local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                        if tonumber(Price) < VetementsPrice[Index] then
+                            if v:FindFirstChild("Highlight") then
+                                v:FindFirstChild("Highlight"):Remove()
+                            end
+                        end
+                    end
+
+                    if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                        v:FindFirstChild("Highlight"):Remove()
+                    end
+                end 
+            end
+        end
+    end
+})
+
+_G.NF = false
+Tab2:AddToggle({
+    Name = "Никита Евреев (не рекомендую, может быть паль)",
+    Default = false,
+    Callback = function(Value)
+        if Value then
+            _G.NF = true
+            while _G.NF == true do
+                for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                    if v:FindFirstChildOfClass("ProximityPrompt") then
+                        if table.find(NFList, v.ProximityPrompt.ObjectText) then
+                            local Name = v.ProximityPrompt.ObjectText
+                            local Index = table.find(NFList, Name)
+                            local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                            if tonumber(Price) < NFPrice[Index] then
+                                if not v:FindFirstChild("Highlight") then
+                                    local Highlight = Instance.new("Highlight")
+                                    Highlight.Parent = v
+                                    Highlight.OutlineColor = OutlineColorPicker.Color
+                                    Highlight.FillColor = FillColorPicker.Color
+                                    Highlight.FillTransparency = TransparencySlider.CurrentValue
+                                end
+                            end
+                        end
+
+                        if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                            v:FindFirstChild("Highlight"):Remove()
+                        end
+                    end 
+                end
+
+                task.wait(_G.RefreshRate)
+            end
+        else
+            _G.NF = false
+            for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                if v:FindFirstChildOfClass("ProximityPrompt") then
+                    if table.find(NFList, v.ProximityPrompt.ObjectText) then
+                        local Name = v.ProximityPrompt.ObjectText
+                        local Index = table.find(NFList, Name)
+                        local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                        if tonumber(Price) < NFPrice[Index] then
+                            if v:FindFirstChild("Highlight") then
+                                v:FindFirstChild("Highlight"):Remove()
+                            end
+                        end
+                    end
+
+                    if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                        v:FindFirstChild("Highlight"):Remove()
+                    end
+                end 
+            end
+        end
+    end
+})
+
+_G.RickOwens = false
+Tab2:AddToggle({
+    Name = "Rick Owens",
+    CurrentValue = false,
+    Callback = function(Value)
+        if Value then
+            _G.RickOwens = true
+            while _G.RickOwens == true do
+                for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                    if v:FindFirstChildOfClass("ProximityPrompt") then
+                        if table.find(RickOwensList, v.ProximityPrompt.ObjectText) then
+                            local Name = v.ProximityPrompt.ObjectText
+                            local Index = table.find(RickOwensList, Name)
+                            local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                            if tonumber(Price) < RickOwensPrice[Index] then
+                                if not v:FindFirstChild("Highlight") then
+                                    local Highlight = Instance.new("Highlight")
+                                    Highlight.Parent = v
+                                    Highlight.OutlineColor = OutlineColorPicker.Color
+                                    Highlight.FillColor = FillColorPicker.Color
+                                    Highlight.FillTransparency = TransparencySlider.CurrentValue
+                                end
+                            end
+                        end
+
+                        if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                            v:FindFirstChild("Highlight"):Remove()
+                        end
+                    end 
+                end
+
+                task.wait(_G.RefreshRate)
+            end
+        else
+            _G.RickOwens = false
+            for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                if v:FindFirstChildOfClass("ProximityPrompt") then
+                    if table.find(RickOwensList, v.ProximityPrompt.ObjectText) then
+                        local Name = v.ProximityPrompt.ObjectText
+                        local Index = table.find(RickOwensList, Name)
+                        local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                        if tonumber(Price) < RickOwensPrice[Index] then
+                            if v:FindFirstChild("Highlight") then
+                                v:FindFirstChild("Highlight"):Remove()
+                            end
+                        end
+                    end
+
+                    if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                        v:FindFirstChild("Highlight"):Remove()
+                    end
+                end 
+            end
+        end
+    end
+})
+
+_G.Xiaomi = false
+Tab2:AddToggle({
+    Name = "Xiaomi (часто не окуп, только для себя)",
+    Default = false,
+    Callback = function(Value)
+        if Value then
+            _G.Xiaomi = true
+            while _G.Xiaomi == true do
+                for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                    if v:FindFirstChildOfClass("ProximityPrompt") then
+                        if table.find(XiaomiList, v.ProximityPrompt.ObjectText) then
+                            local Name = v.ProximityPrompt.ObjectText
+                            local Index = table.find(XiaomiList, Name)
+                            local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                            if tonumber(Price) < XiaomiPrice[Index] then
+                                if not v:FindFirstChild("Highlight") then
+                                    local Highlight = Instance.new("Highlight")
+                                    Highlight.Parent = v
+                                    Highlight.OutlineColor = OutlineColorPicker.Color
+                                    Highlight.FillColor = FillColorPicker.Color
+                                    Highlight.FillTransparency = TransparencySlider.CurrentValue
+                                end
+                            end
+                        end
+
+                        if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                            v:FindFirstChild("Highlight"):Remove()
+                        end
+                    end 
+                end
+
+                task.wait(_G.RefreshRate)
+            end
+        else
+            _G.Xiaomi = false
+            for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                if v:FindFirstChildOfClass("ProximityPrompt") then
+                    if table.find(XiaomiList, v.ProximityPrompt.ObjectText) then
+                        local Name = v.ProximityPrompt.ObjectText
+                        local Index = table.find(XiaomiList, Name)
+                        local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                        if tonumber(Price) < XiaomiPrice[Index] then
+                            if v:FindFirstChild("Highlight") then
+                                v:FindFirstChild("Highlight"):Remove()
+                            end
+                        end
+                    end
+
+                    if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                        v:FindFirstChild("Highlight"):Remove()
+                    end
+                end 
+            end
+        end
+    end
+})
+
+_G.Apple = false
+Tab2:AddToggle({
+    Name = "Apple",
+    Default = false,
+    Callback = function(Value)
+        if Value then
+            _G.Apple = true
+            while _G.Apple == true do
+                for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                    if v:FindFirstChildOfClass("ProximityPrompt") then
+                        if table.find(AppleList, v.ProximityPrompt.ObjectText) then
+                            local Name = v.ProximityPrompt.ObjectText
+                            local Index = table.find(AppleList, Name)
+                            local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                            if tonumber(Price) < ApplePrice[Index] then
+                                if not v:FindFirstChild("Highlight") then
+                                    local Highlight = Instance.new("Highlight")
+                                    Highlight.Parent = v
+                                    Highlight.OutlineColor = OutlineColorPicker.Color
+                                    Highlight.FillColor = FillColorPicker.Color
+                                    Highlight.FillTransparency = TransparencySlider.CurrentValue
+                                end
+                            end
+                        end
+
+                        if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                            v:FindFirstChild("Highlight"):Remove()
+                        end
+                    end 
+                end
+
+                task.wait(_G.RefreshRate)
+            end
+        else
+            _G.Apple = false
+            for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                if v:FindFirstChildOfClass("ProximityPrompt") then
+                    if table.find(AppleList, v.ProximityPrompt.ObjectText) then
+                        local Name = v.ProximityPrompt.ObjectText
+                        local Index = table.find(AppleList, Name)
+                        local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                        if tonumber(Price) < ApplePrice[Index] then
+                            if v:FindFirstChild("Highlight") then
+                                v:FindFirstChild("Highlight"):Remove()
+                            end
+                        end
+                    end
+
+                    if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                        v:FindFirstChild("Highlight"):Remove()
+                    end
+                end 
+            end
+        end
+    end
+})
+
+_G.Limited = false
+Tab2:AddToggle({
+    Name = "Лимитки (продавать не у барыги а лучше другим игрокам)",
+    Default = false,
+    Callback = function(Value)
+        if Value then
+            _G.Limited = true
+            while _G.Limited == true do
+                for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                    if v:FindFirstChildOfClass("ProximityPrompt") then
+                        if table.find(LimitedList, v.ProximityPrompt.ObjectText) then
+                            local Name = v.ProximityPrompt.ObjectText
+                            local Index = table.find(LimitedList, Name)
+                            local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                            if tonumber(Price) < LimitedPrice[Index] then
+                                if not v:FindFirstChild("Highlight") then
+                                    local Highlight = Instance.new("Highlight")
+                                    Highlight.Parent = v
+                                    Highlight.OutlineColor = OutlineColorPicker.Color
+                                    Highlight.FillColor = FillColorPicker.Color
+                                    Highlight.FillTransparency = TransparencySlider.CurrentValue
+                                end
+                            end
+                        end
+
+                        if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                            v:FindFirstChild("Highlight"):Remove()
+                        end
+                    end 
+                end
+
+                task.wait(_G.RefreshRate)
+            end
+        else
+            _G.SportMaster = false
+            for i, v in pairs(game:GetService("Workspace").World.Debris.Stores:GetDescendants()) do
+                if v:FindFirstChildOfClass("ProximityPrompt") then
+                    if table.find(LimitedList, v.ProximityPrompt.ObjectText) then
+                        local Name = v.ProximityPrompt.ObjectText
+                        local Index = table.find(LimitedList, Name)
+                        local Price = string.gsub(v.ProximityPrompt.ActionText, "(%D)", "")
+                        if tonumber(Price) < LimitedPrice[Index] then
+                            if v:FindFirstChild("Highlight") then
+                                v:FindFirstChild("Highlight"):Remove()
+                            end
+                        end
+                    end
+
+                    if v.ProximityPrompt.ActionText == "Повесить" and v:FindFirstChild("Highlight") then
+                        v:FindFirstChild("Highlight"):Remove()
+                    end
+                end 
+            end
+        end
+    end
+})
+OrionLib:Init()
